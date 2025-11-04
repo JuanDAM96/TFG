@@ -1,23 +1,28 @@
-# XploraGo – Turismo Joven en Extremadura
+# 🌍 XploraGo – Turismo Joven en Extremadura
 
-**Sprint 0 — Entrega E1**
+**Proyecto Intermodular — DAM 2ºB (2025–2026)**  
+Alumno: **Juan Antonio Lucas Márquez**  
+Tutor/a: **María Mercedes Martínez Fragoso**  
+Centro: **IES Albarregas**
+
+## 📘 Descripción general
 
 XploraGo es una aplicación multiplataforma orientada a jóvenes de 18 a 35 años para organizar viajes colaborativos por Extremadura.  
 Permite crear grupos, planificar rutas, gestionar gastos y descubrir actividades locales, fomentando el turismo sostenible y el consumo local.
 
 ---
 
-## 📦 Estructura del repositorio
+## 📂 Estructura del repositorio
 
-- `docs/` → Documentación oficial del proyecto (PDF, DOCX, fuentes del benchmark, etc.)
-- `src/` → Código fuente 
-- `.github/` → Plantillas y automatización
+- `docs/` → Documentación oficial del proyecto 
+- `src/` → Código fuente
+- - `diseño/` → Prototipos y recursos de diseño (Figma, wireframes, etc.)  
 - `README.md` → Descripción del proyecto
 - `LICENSE` → Licencia GPL v3.0
 
 ---
 
-## 📚 Documentos Sprint 0
+## 📚 Documentos 
 
 | Archivo | Descripción |
 |----------|--------------|
@@ -27,7 +32,7 @@ Permite crear grupos, planificar rutas, gestionar gastos y descubrir actividades
 
 ---
 
-## 🧩 Historias cubiertas en Sprint 0
+## 🧩 Historias cubiertas 
 - **HU-001** Portada y datos del proyecto  
 - **HU-002** Resumen ejecutivo  
 - **HU-003** Justificación (beneficios, benchmark, ODS)  
@@ -35,6 +40,6 @@ Permite crear grupos, planificar rutas, gestionar gastos y descubrir actividades
 
 ---
 
-## 🧾 Licencia
+## ⚖️ Licencia
 Este proyecto se distribuye bajo la licencia **GPL v3.0**.  
 Consulta el archivo [`LICENSE`](LICENSE) para más información.
