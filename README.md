@@ -16,7 +16,7 @@ Permite crear grupos, planificar rutas, gestionar gastos y descubrir actividades
 
 - `docs/` → Documentación oficial del proyecto 
 - `src/` → Código fuente
-- - `diseño/` → Prototipos y recursos de diseño (Figma, wireframes, etc.)  
+- `diseño/` → Prototipos y recursos de diseño (Figma, wireframes, etc.)  
 - `README.md` → Descripción del proyecto
 - `LICENSE` → Licencia GPL v3.0
 
