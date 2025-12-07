@@ -5,7 +5,7 @@ Alumno: **Juan Antonio Lucas Márquez**
 Grupo: **2ºB Desarrollo de Aplicaciones Multiplataforma (DAM)**
 Centro Educativo: **IES Albarregas**
 Módulo y curso académico: **0492 Proyecto DAM (2025–2026)**
-Tutor/a: **María Mercedes Martínez Fragoso**  
+Tutor/a: **María Mercedes Martínez Fragoso**
 Fecha: **07/12/2025**
 Versión: **v1.1**
 
